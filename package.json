@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "new.js",
+  "scripts": {
+    "new": "node bin/new.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuliguaiguaia/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuliguaiguaia/leetcode/issues"
+  },
+  "homepage": "https://github.com/wuliguaiguaia/leetcode#readme",
+  "dependencies": {
+    "file-save": "^0.2.0"
+  }
+}

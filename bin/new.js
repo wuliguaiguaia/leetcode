@@ -9,8 +9,7 @@ const num = (Array(3).join(0) + process.argv[2]).slice(-3);
 const name = process.argv[3];
 const data = new Date().toLocaleDateString();
 
-const template = `
-# ${name}
+const template = `# ${name}
 
 @关键词： 
 
